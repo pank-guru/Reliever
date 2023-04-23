@@ -1,2 +1,2 @@
 # Reliever
-Simple website perform ```CRUD``` operations 
+A simple website that performs ```CRUD``` operations and form valiadtions using ```node js```
